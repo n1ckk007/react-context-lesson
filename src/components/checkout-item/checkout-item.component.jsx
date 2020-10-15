@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-import { connect } from "react-redux";
 import { CartContext } from "../../providers/cart/cartProvider";
 import "./checkout-item.styles.scss";
 
